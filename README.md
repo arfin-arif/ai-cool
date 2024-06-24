@@ -1,6 +1,3 @@
-Here is the corrected and formatted `README.md` for your project:
-
-````markdown
 # Ai Cool
 
 Unlock the power of AI - Chat with the smartest AI. Experience the power of AI with us.
@@ -55,6 +52,7 @@ Make sure you have the following installed:
    ```sh
    git clone https://github.com/your_username/ai-cool.git
    ```
+
 ````
 
 2. Navigate to the project directory
@@ -138,3 +136,4 @@ Website: [https://arfinarif.vercel.app/](https://arfinarif.vercel.app/)
 ```
 
 ```
+````
