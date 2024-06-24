@@ -1,3 +1,6 @@
+Here is the corrected and formatted `README.md` for your project:
+
+````markdown
 # Ai Cool
 
 Unlock the power of AI - Chat with the smartest AI. Experience the power of AI with us.
@@ -50,21 +53,22 @@ Make sure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username/aicool.git
+   git clone https://github.com/your_username/ai-cool.git
    ```
-
 ````
 
 2. Navigate to the project directory
+
    ```sh
    cd ai-cool
    ```
+
 3. Install dependencies for both frontend and backend
    ```sh
    cd ai-cool-frontend
-   yarn install or npm install
+   yarn install
    cd ../ai-cool-backend
-   yarn install or npm install
+   yarn install
    ```
 
 ## Usage
@@ -72,15 +76,19 @@ Make sure you have the following installed:
 To start the application, follow these steps:
 
 1. Run the backend server
+
    ```sh
-   cd backend
-   yarn start or npm start
+   cd ai-cool-backend
+   yarn start
    ```
+
 2. Run the frontend application
+
    ```sh
-   cd frontend
+   cd ai-cool-frontend
    yarn dev
    ```
+
 3. Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
 ## Technologies Used
@@ -123,7 +131,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arfin Arif - [@rfinarifbd](https://www.linkedin.com/in/arfinarifbd/) - arifmtbd@gmail.com
 
-Project Link: [https://github.com/arfin-arif/ai-coo](https://github.com/arfin-arif/ai-coo)
+Project Link: [https://github.com/arfin-arif/ai-cool](https://github.com/arfin-arif/ai-cool)
 
+Website: [https://arfinarif.vercel.app/](https://arfinarif.vercel.app/)
 
-````
+```
+
+```
