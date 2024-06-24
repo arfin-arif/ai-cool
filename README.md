@@ -49,11 +49,10 @@ Make sure you have the following installed:
 ### Installation
 
 1. Clone the repository
+
    ```sh
    git clone https://github.com/your_username/ai-cool.git
    ```
-
-````
 
 2. Navigate to the project directory
 
@@ -136,4 +135,7 @@ Website: [https://arfinarif.vercel.app/](https://arfinarif.vercel.app/)
 ```
 
 ```
-````
+
+```
+
+```
